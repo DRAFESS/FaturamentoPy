@@ -1,0 +1,12 @@
+{
+    "faturamento_diario": [
+      {"dia": 1, "valor": 1500.00},
+      {"dia": 2, "valor": 2300.00},
+      {"dia": 3, "valor": 0.00},
+      {"dia": 4, "valor": 5400.00},
+      {"dia": 5, "valor": 0.00},
+      {"dia": 6, "valor": 7200.00},
+      {"dia": 7, "valor": 3400.00}
+    ]
+  }
+  
